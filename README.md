@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangadi-167&label=Profile%20views&color=129e00&style=plastic" alt="mangadi-167" /> </p>
 <img align="right" alt="Coding" width="350" height="350" src="Mangadi.JPG">
 
-- 👨‍💻 You can also check out my portfolio at [https://Mangadi-167.github.io/](https://Mangadi-167.github.io/)
+- 👨‍💻 You can also check out my portfolio at [[https://Mangadi-167.github.io/](https://github.com/mangadi-167)]
 
 - 📫 How to reach me **tualifanna@gmail.com**
 
