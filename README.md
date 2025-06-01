@@ -8,7 +8,7 @@
   <img src="Mangadi.JPG" alt="Mangadi - Profile Picture" width="200" style="border-radius:50%; max-width:100%; height:auto;" />
   <br><br>
 </div>
-
+---
 <p align="center">
   👨‍💻 My Portfolio: <strong><a href="https://mangadi-167.github.io/" target="_blank" rel="noopener noreferrer">mangadi-167.github.io</a></strong>
   <br>
@@ -23,7 +23,7 @@
   <a href="YOUR_ACTUAL_YOUTUBE_CHANNEL_LINK_HERE" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube Channel" height="30" width="40" /></a>
   </p>
 
-
+---
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
@@ -39,7 +39,7 @@
 <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>&nbsp;
   </p>
-
+---
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <p align="center">
